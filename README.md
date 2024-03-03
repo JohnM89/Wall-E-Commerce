@@ -16,7 +16,7 @@ To get started with Wall-E-Commerce, follow these steps:
 
 1. Clone the repository to your local machine:
 
-- git clone [[https://github.com/your-username/wall-e-commerce.git](https://github.com/JohnM89/Wall-E-Commerce.git)](https://github.com/JohnM89/Wall-E-Commerce.git)
+- git clone [(https://github.com/JohnM89/Wall-E-Commerce.git)](https://github.com/JohnM89/Wall-E-Commerce.git)]
 
 
 2. Navigate to the project directory:
