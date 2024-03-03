@@ -12,7 +12,7 @@ Wall-E-Commerce an innovative e-commerce application. Manage your products, cate
 
 ## 🛠️ Installation
 
-To get started with Pulp E-Commerce, follow these steps:
+To get started with Wall-E-Commerce, follow these steps:
 
 1. Clone the repository to your local machine:
 
