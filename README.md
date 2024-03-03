@@ -59,4 +59,14 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Demo
-[Preview Video](insert here)
+- [SQl Setup](./assets/Untitled_%20Mar%203,%202024%202_06%20AM.gif)
+
+- [Run app](./assets/Untitled_%20Mar%203,%202024%202_09%20AM.gif)
+
+- [GET ALL](./assets/Untitled_%20Mar%203,%202024%202_17%20AM.gif)
+
+- [GET EACH](./assets/Untitled_%20Mar%203,%202024%202_22%20AM.gif)
+
+- [PUT,POST&DELETE](./assets/Untitled_%20Mar%203,%202024%202_34%20AM.gif)
+
+- [PUT,POST&DELETE(cont.)](./assets/Untitled_%20Mar%203,%202024%202_45%20AM.gif)
