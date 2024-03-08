@@ -60,13 +60,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Demo
 - [SQl Setup](./assets/Untitled_%20Mar%203,%202024%202_06%20AM.gif)
+(https://drive.google.com/file/d/1Vbs1LWLj0j4pI7MAhnFXXcM243hNCgXl/view)
 
 - [Run app](./assets/Untitled_%20Mar%203,%202024%202_09%20AM.gif)
+(https://drive.google.com/file/d/1yXjEmtKJ_bhk_lgCJwL-ifESqnt2DP6m/view)
 
 - [GET ALL](./assets/Untitled_%20Mar%203,%202024%202_17%20AM.gif)
+(https://drive.google.com/file/d/1XA8aX6qJjiRJaRqYtQx1k50P4KGVZ-h2/view)
 
 - [GET EACH](./assets/Untitled_%20Mar%203,%202024%202_22%20AM.gif)
+(https://drive.google.com/file/d/1y_kLSWy0MPSEI14VUfbDiQOT5PC92BEp/view)
 
 - [PUT,POST&DELETE](./assets/Untitled_%20Mar%203,%202024%202_34%20AM.gif)
+(https://drive.google.com/file/d/1KZrex8QFs3UCUANsKDQlbzGG9W-sDKAG/view)
 
 - [PUT,POST&DELETE(cont.)](./assets/Untitled_%20Mar%203,%202024%202_45%20AM.gif)
+(https://drive.google.com/file/d/1aCwX78XJNTVgSGVA9QmsrpJAo0b0cnJU/view)
